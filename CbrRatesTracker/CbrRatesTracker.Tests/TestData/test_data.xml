@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<ValCurs Date="22.10.2026" name="Foreign Currency Market">
+	<Valute ID="R01060">
+		<NumCode>051</NumCode>
+		<CharCode>AMD</CharCode>
+		<Nominal>100</Nominal>
+		<Name>Армянских драмов</Name>
+		<Value>22,6823</Value>
+		<VunitRate>0,226823</VunitRate>
+	</Valute>
+</ValCurs>
